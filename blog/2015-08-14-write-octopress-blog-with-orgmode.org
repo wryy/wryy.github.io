@@ -1,0 +1,15 @@
+#+TITLE: 用orgmode和octopress在github上写博客
+#+DATE: 2015-08-14
+#+SETUPFILE: ~/Dev/octopress/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES:
+#+JEKYLL_PUBLISHED: true
+
+本文尝试清楚的说明如何在github上使用octopress和orgmode发布博客。orgmode相比较markdown，具有更强的表达组织能力。可以绘制uml、公式和很多其他复杂的功能，更适合技术人编写技术类的博客。因此，在一番尝试和努力之下，终于配置完成了。现在把配置的过程记录下来，方便有类似想法的童鞋。
+
+{{{more}}}
+
+* 前提条件
+需要已经配置好了自己的octopress，如果没有可以参考唐巧的这篇文章。
+
+* 插件org-octopress

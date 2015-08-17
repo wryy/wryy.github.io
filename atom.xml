@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[辰申的博客]]></title>
+  <link href="http://sj20082663.github.io/atom.xml" rel="self"/>
+  <link href="http://sj20082663.github.io/"/>
+  <updated>2015-08-14T11:33:45+08:00</updated>
+  <id>http://sj20082663.github.io/</id>
+  <author>
+    <name><![CDATA[辰申]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[用orgmode和octopress在github上写博客]]></title>
+    <link href="http://sj20082663.github.io/blog/2015-08-14-write-octopress-blog-with-orgmode.html"/>
+    <updated>2015-08-14T00:00:00+08:00</updated>
+    <id>http://sj20082663.github.io/blog/write-octopress-blog-with-orgmode</id>
+    <content type="html"><![CDATA[<p>
+本文尝试清楚的说明如何在github上使用octopress和orgmode发布博客。orgmode相比较markdown，具有更强的表达组织能力。可以绘制uml、公式和很多其他复杂的功能，更适合技术人编写技术类的博客。因此，在一番尝试和努力之下，终于配置完成了。现在把配置的过程记录下来，方便有类似想法的童鞋。
+</p>
+
+<p>
+<!-- more -->
+</p>
+
+<div id="outline-container-orgheadline1" class="outline-2">
+<h2 id="orgheadline1">前提条件</h2>
+<div class="outline-text-2" id="text-orgheadline1">
+<p>
+需要已经配置好了自己的octopress，如果没有可以参考唐巧的这篇文章。
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgheadline2" class="outline-2">
+<h2 id="orgheadline2">插件org-octopress</h2>
+</div>
+]]></content>
+  </entry>
+  
+</feed>
