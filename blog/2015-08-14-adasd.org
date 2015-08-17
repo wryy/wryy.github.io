@@ -1,0 +1,10 @@
+#+TITLE: adasd
+#+DATE: 2015-08-14
+#+SETUPFILE: ~/Dev/octopress/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES:
+#+JEKYLL_PUBLISHED: true
+
+*
+
+{{{more}}}

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[辰申的博客]]></title>
-  <link href="http://sj20082663.github.io/atom.xml" rel="self"/>
-  <link href="http://sj20082663.github.io/"/>
-  <updated>2015-08-14T11:33:45+08:00</updated>
-  <id>http://sj20082663.github.io/</id>
+  <title><![CDATA[吾人演易]]></title>
+  <link href="http://wryy.github.io/atom.xml" rel="self"/>
+  <link href="http://wryy.github.io/"/>
+  <updated>2015-08-17T11:41:10+08:00</updated>
+  <id>http://wryy.github.io/</id>
   <author>
-    <name><![CDATA[辰申]]></name>
+    <name><![CDATA[吾人演易]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,11 +15,11 @@
   
   <entry>
     <title type="html"><![CDATA[用orgmode和octopress在github上写博客]]></title>
-    <link href="http://sj20082663.github.io/blog/2015-08-14-write-octopress-blog-with-orgmode.html"/>
+    <link href="http://wryy.github.io/blog/2015-08-14-write-octopress-blog-with-orgmode.html"/>
     <updated>2015-08-14T00:00:00+08:00</updated>
-    <id>http://sj20082663.github.io/blog/write-octopress-blog-with-orgmode</id>
+    <id>http://wryy.github.io/blog/write-octopress-blog-with-orgmode</id>
     <content type="html"><![CDATA[<p>
-本文尝试清楚的说明如何在github上使用octopress和orgmode发布博客。orgmode相比较markdown，具有更强的表达组织能力。可以绘制uml、公式和很多其他复杂的功能，更适合技术人编写技术类的博客。因此，在一番尝试和努力之下，终于配置完成了。现在把配置的过程记录下来，方便有类似想法的童鞋。
+本文尝试清楚说明如何在github上使用octopress和orgmode发布博客。orgmode相比较markdown，具有更强的表达组织能力。可以绘制uml、公式和很多其他复杂的功能，更适合技术人编写技术类的博客。因此，在一番尝试和努力之下，终于配置完成了。现在把配置的过程记录下来，方便有类似想法的童鞋。
 </p>
 
 <p>
@@ -27,7 +27,7 @@
 </p>
 
 <div id="outline-container-orgheadline1" class="outline-2">
-<h2 id="orgheadline1">前提条件</h2>
+<h2 id="orgheadline1">准备工作</h2>
 <div class="outline-text-2" id="text-orgheadline1">
 <p>
 需要已经配置好了自己的octopress，如果没有可以参考唐巧的这篇文章。
@@ -36,7 +36,15 @@
 </div>
 
 <div id="outline-container-orgheadline2" class="outline-2">
-<h2 id="orgheadline2">插件org-octopress</h2>
+<h2 id="orgheadline2">org-octopress插件</h2>
+</div>
+
+<div id="outline-container-orgheadline3" class="outline-2">
+<h2 id="orgheadline3">配置setupfile.org</h2>
+</div>
+
+<div id="outline-container-orgheadline4" class="outline-2">
+<h2 id="orgheadline4">写博客和发布</h2>
 </div>
 ]]></content>
   </entry>
